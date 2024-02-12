@@ -17,7 +17,7 @@ function Introduction() {
 function Featured() {
 	return (
 		<>
-			<h2>Featured Projects</h2>
+			<h2>Featured Projectssssssssssss</h2>
 		</>
 	)
 }
